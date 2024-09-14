@@ -5,7 +5,7 @@ Project : Classification of World Countries Using K-Means and Hierarchical Clust
 
 IMPORTANT NOTES :
 1/ the project is built with orange meaning it has a ows file
-2/ the dfs search homework is also uploaded to the same repository in a py file
+2/ the dfs search homework is also uploaded to the same repository in an ipynb file
 3/ the dataset file is also uploaded here (Note that the orange file requires it so make sure its uploaded or 
 upload it manually 
 
